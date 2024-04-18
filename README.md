@@ -2,6 +2,8 @@
 
 `Swanand Wagh & Azmeen Kausar`
 
+ - [Mockup Designs](https://github.com/CSS-545/Initial-Mockup/blob/main/mockup.pdf)
+
 ## Relevance to Target Demographic
 
 The design of Greenie's MVP aligns well with the needs of individual users seeking to verify themselves professionally. By focusing on essential verification processes like location and work history verification, Greenie addresses key pain points faced by job seekers and professionals seeking to establish their credibility in the hiring process. The user-friendly interface and clear indicators for verification status cater to users looking for a streamlined and reliable verification experience.
